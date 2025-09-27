@@ -1,4 +1,4 @@
- # 👋 Hi, I'm Sumit Kumar  
+# 👋 Hi, I'm Sumit Kumar  
 
 💻 **Frontend Developer | Web Developer | Tech Enthusiast**  
 
@@ -30,9 +30,30 @@ Currently working at **Valeo Health**, I focus on building **responsive, user-fr
 ---
 
 ## 📂 Projects  
-- 🔹 [MockDrilling](#) – A mock interview preparation platform  
 
-*(More projects available in my repos!)*  
+### 🔹 [MockDrilling](https://github.com/SumitKumarweb/Mockdrilling.com)  
+**Technical Interview Practice Platform**  
+A modern web application for practicing technical interviews with **AI-powered feedback** and expert guidance.  
+
+**Live Demo:** [https://mock-staging.netlify.app/](https://mock-staging.netlify.app/)  
+
+**🚀 Features**  
+- Free Mock Interviews: Practice unlimited technical interviews in frontend, backend, and DSA  
+- Professional Mock Interviews: Upgrade for company-specific interviews with expert feedback  
+- Real-time AI Feedback on performance  
+- Interview Analytics to track progress  
+- User Authentication with Firebase Auth  
+- Responsive design for Desktop, Tablet, and Mobile  
+- Dark/Light theme toggle  
+
+**🛠️ Tech Stack**  
+- **Frontend:** Next.js 14, React 18, TypeScript, Tailwind CSS, Radix UI, Lucide React  
+- **Backend & Services:** Firebase Authentication & Firestore, Nodemailer  
+- **Development Tools:** ESLint, PostCSS, Autoprefixer  
+
+**🔗 Links:**  
+- [GitHub Repository](https://github.com/SumitKumarweb/Mockdrilling.com)  
+- [Live Demo](https://mock-staging.netlify.app/)  
 
 ---
 
@@ -42,8 +63,16 @@ Currently working at **Valeo Health**, I focus on building **responsive, user-fr
 
 ---
 
+## 🏆 Competitive Programming Profiles  
+- [LeetCode](https://leetcode.com/u/sumitkumarfrontend/)  
+- [HackerRank](https://www.hackerrank.com/profile/bingostudypoint)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/bingostukvqz/)  
+
+---
+
 ## 🤝 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kumar-06404221b/)  
+
 ---
 
 ✨ *“Code. Learn. Build. Repeat.”*  
