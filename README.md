@@ -30,8 +30,6 @@ Currently working at **Valeo Health**, I focus on building **responsive, user-fr
 ---
 
 ## 📂 Projects  
-- 🔹 [Shadow Chat](#) – A responsive video-based web project  
-- 🔹 [BMI Calculator Admin Panel](#) – Dynamic React UI with ranking system  
 - 🔹 [MockDrilling](#) – A mock interview preparation platform  
 
 *(More projects available in my repos!)*  
@@ -46,8 +44,6 @@ Currently working at **Valeo Health**, I focus on building **responsive, user-fr
 
 ## 🤝 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kumar-06404221b/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Sumitonweb)  
-
 ---
 
 ✨ *“Code. Learn. Build. Repeat.”*  
