@@ -57,12 +57,6 @@ A modern web application for practicing technical interviews with **AI-powered f
 
 ---
 
-## 📈 GitHub Stats  
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumitonweb&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitonweb&layout=compact&theme=radical)  
-
----
-
 ## 🏆 Competitive Programming Profiles  
 - [LeetCode](https://leetcode.com/u/sumitkumarfrontend/)  
 - [HackerRank](https://www.hackerrank.com/profile/bingostudypoint)  
