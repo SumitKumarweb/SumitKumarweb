@@ -5,8 +5,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a passionate **Frontend Developer** from Moradabad with expertise in **HTML, CSS, JavaScript, and React JS**.  
-Currently working at **Valeo Health**, I focus on building **responsive, user-friendly, and dynamic web applications**.  
+I’m a passionate **Frontend Developer** from Moradabad with expertise in **HTML, CSS, JavaScript, and React JS**. I focus on building **responsive, user-friendly, and dynamic web applications**.  
 
 - 🌱 Continuously learning and growing in frontend technologies  
 - 🎯 Motivated by problem-solving and career growth  
