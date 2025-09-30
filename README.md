@@ -59,13 +59,13 @@ A modern web application for practicing technical interviews with **AI-powered f
 ## 🏆 Competitive Programming Profiles  
 - [LeetCode](https://leetcode.com/u/sumitkumarfrontend/)  
 - [HackerRank](https://www.hackerrank.com/profile/bingostudypoint)  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/bingostukvqz/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/bingostukvqz/)
 
 ---
 
 ## 🤝 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kumar-06404221b/)  
-
+[Resume](https://drive.google.com/file/d/1OEmvNlZvZSKfs5uW87-Q_lPsTKVLt9w_/view?usp=sharing)
 ---
 
 ✨ *“Code. Learn. Build. Repeat.”*  
