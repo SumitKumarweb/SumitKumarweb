@@ -35,6 +35,7 @@ I am a highly motivated developer with a strong foundation in frontend technolog
 
 ### 🔹 [MockDrilling](https://github.com/SumitKumarweb/Mockdrilling.com)  
 **Technical Interview Practice Platform**  
+
 A modern web application for practicing technical interviews with **AI-powered feedback** and expert guidance.  
 
 **Live Demo:** [https://mock-staging.netlify.app/](https://mock-staging.netlify.app/)  
@@ -55,8 +56,32 @@ A modern web application for practicing technical interviews with **AI-powered f
 
 **🔗 Links:**  
 - [GitHub Repository](https://github.com/SumitKumarweb/Mockdrilling.com)  
-- [Live Demo](https://mock-staging.netlify.app/)  
+- [Live Demo](https://mock-staging.netlify.app/)
 
+### 🔹 [Finance Tracker](https://github.com/SumitKumarweb/finance)
+**Personal Finance Management App**
+
+A web app to manage income, expenses, and transactions with real-time updates and backend integration.
+
+**Live Demo:** [https://radiant-salamander-5fc2e0.netlify.app/](https://radiant-salamander-5fc2e0.netlify.app/)
+
+**🚀 Features**  
+
+- Developed an interactive front-end interface in React.js to manage income, expenses, and transactions
+
+- Implemented dynamic updates for financial data with real-time date and time synchronisation
+
+- Integrated RESTful APIs for user registration and CRUD operations
+
+- Collaborated with a team member to enhance project features using state management, routing, and exception handling
+
+- Utilised Git for version control, ensuring smooth collaboration and project integrity.
+
+**🛠️ Tech Stack**  
+- **Frontend:** CSS, React.js,
+- **Backend & service:** Firebase Authentication & Firestore, Nodemailer
+- **Development Tools:** ESLint, PostCSS, Autoprefixer
+  
 ---
 
 ## 🏆 Competitive Programming Profiles  
