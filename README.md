@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 I’m a passionate **Frontend Developer** from Moradabad with expertise in **HTML, CSS, JavaScript, and React JS**. I focus on building **responsive, user-friendly, and dynamic web applications**.  
 
-##💡 Self Description:
+## 💡 Self Description:
 I am a highly motivated developer with a strong foundation in frontend technologies and a growing interest in full-stack development. I enjoy solving problems, optimizing performance, and bringing modern UI/UX ideas into functional web projects. Apart from coding, I love chess and cricket, which keep me sharp, strategic, and active.
 
 - 🌱 Continuously learning and growing in frontend technologies  
