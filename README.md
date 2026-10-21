@@ -46,7 +46,7 @@ Currently, I work on frontend development and modern web technologies while buil
 
 ## 💼 Professional Experience
 
-### Associate Software Developer — Frontend
+### Software Developer
 **Seventh Triangle Consulting Private Limited**
 
 - Develop and enhance responsive web interfaces using React.js and modern frontend technologies.
